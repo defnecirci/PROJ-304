@@ -1,8 +1,8 @@
 # PROJ-304
 
-This repository is created to gather some of my codes that I used in my Computer Science compultory internship in Sabanci University .
+This repository is created to gather some of my codes that I used in my Computer Science compulsory internship in Sabanci University .
 
-leaflet.R is written to create a World map with information about the number of people who diED beccause of COVID-19 mapped to each country.
+leaflet.R is written to create a World map with information about the number of people who died because of COVID-19 mapped to each country.
 
 Figure1_Clusters.R is written to visualize clusters aligned with the tree. The figure can be seen from our article: https://www.biorxiv.org/content/10.1101/2020.05.15.095794v1.full
 
